@@ -30,7 +30,7 @@ A browser extension for managing subscriptions, tracking recurring expenses and 
 
 <br/>
 
-<a href="[https://subwatch-website.vercel.app/](https://gyatso-code.github.io/subwatch-website/)">
+<a href="https://gyatso-code.github.io/subwatch-website/">
   <img src="https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 <a href="https://chromewebstore.google.com/detail/subwatch/nlgmolmddefnkdbmnimaggggidgcdldf">
