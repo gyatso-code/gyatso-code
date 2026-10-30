@@ -28,28 +28,6 @@ I'm a **QA Engineer** with 1.5 years of commercial experience testing web and mo
 
 I focus on software quality, user experience and building reliable products. Beyond testing, I enjoy exploring development and creating my own projects.
 
-- **Experience:** Manual, API, functional and regression testing
-- **Platforms:** Web, Android and iOS
-- **Currently learning:** SQL and test automation
-- **Building:** SubWatch — a subscription tracking extension
-
-<br/>
-
-## Technologies
-
-**Testing & QA**
-
-![Postman](https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37)
-![Chrome](https://img.shields.io/badge/DevTools-18181B?style=flat-square&logo=googlechrome&logoColor=4285F4)
-![Android Studio](https://img.shields.io/badge/Android_Studio-18181B?style=flat-square&logo=androidstudio&logoColor=3DDC84)
-
-**Development & Tools**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
-
 <br/>
 
 ## Featured Project
