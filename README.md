@@ -26,8 +26,6 @@ I focus on software quality, user experience and building reliable products. Bey
 
 A browser extension for managing subscriptions, tracking recurring expenses and receiving payment reminders.
 
-`React` · `TypeScript` · `WXT`
-
 <br/>
 
 <a href="https://gyatso-code.github.io/subwatch-website/">
