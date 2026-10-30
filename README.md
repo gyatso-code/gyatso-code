@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Telegram-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ### About Me
 
@@ -28,21 +28,25 @@ A browser extension for managing subscriptions, tracking recurring expenses and 
 
 `React` · `TypeScript` · `WXT`
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-635BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/subwatch/nlgmolmddefnkdbmnimaggggidgcdldf)
-[![Source Code](https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyatso-code/subwatch)
-
 <br/>
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=gyatso-code&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyatso-code&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" height="170" alt="Top Languages"/>
+<a href="https://subwatch-website.vercel.app/">
+  <img src="https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+<a href="https://chromewebstore.google.com/detail/subwatch/nlgmolmddefnkdbmnimaggggidgcdldf">
+  <img src="https://img.shields.io/badge/Chrome_Web_Store-635BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/>
+</a>
 
 <br/><br/>
 
-### 📈 Contribution Activity
+### 📊 GitHub Statistics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gyatso-code&bg_color=1A1B27&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyatso-code&theme=tokyonight" height="170" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gyatso-code&theme=tokyonight" height="170" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyatso-code&theme=tokyonight" width="95%" alt="GitHub Activity"/>
 
 <br/>
 
