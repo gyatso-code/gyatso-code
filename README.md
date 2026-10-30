@@ -10,44 +10,44 @@
   <img src="https://img.shields.io/badge/Telegram-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-</div>
+<br/><br/>
 
-## About Me
+### About Me
 
 I'm a **QA Engineer** based in Minsk, Belarus, with 1.5 years of commercial experience in web and mobile application testing.
 
 I focus on software quality, user experience and building reliable products. Beyond testing, I enjoy exploring development and creating my own projects.
 
-## Featured Project
+<br/>
 
-<table>
-<tr>
-<td>
+### 💜 Featured Project
 
-### SubWatch
+**SubWatch — Subscription Tracker**
 
-**Subscription Tracker & Payment Reminders**
+A browser extension for managing subscriptions, tracking recurring expenses and receiving payment reminders.
 
-A browser extension designed to help users manage subscriptions, track recurring expenses and receive reminders before upcoming payments.
+`React` · `TypeScript` · `WXT`
 
-**Built with:** `React` · `TypeScript` · `WXT`
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-635BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/subwatch/nlgmolmddefnkdbmnimaggggidgcdldf)
+[![Source Code](https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyatso-code/subwatch)
 
-<a href="https://chromewebstore.google.com/detail/subwatch/nlgmolmddefnkdbmnimaggggidgcdldf">
-  <img src="https://img.shields.io/badge/Chrome_Web_Store-635BFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/>
-</a>
-<a href="https://github.com/gyatso-code/subwatch">
-  <img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-<a href="https://github.com/gyatso-code/subwatch-website">
-  <img src="https://img.shields.io/badge/Website-18181B?style=flat-square&logo=vercel&logoColor=white" alt="Website Repository"/>
-</a>
+<br/>
 
-</td>
-</tr>
-</table>
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=gyatso-code&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyatso-code&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" height="170" alt="Top Languages"/>
+
+<br/><br/>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gyatso-code&bg_color=1A1B27&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
+
+<br/>
 
 ---
 
-<div align="center">
-  <sub>Building, testing and learning — one project at a time.</sub>
+<sub>Building, testing and learning — one project at a time.</sub>
+
 </div>
